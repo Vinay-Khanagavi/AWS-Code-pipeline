@@ -7,6 +7,9 @@ add unique name--> create
 
 # Adding Objects in the bucket
 |-go to the created bucket add object
+-> ACLs enable
+-> Bucket Versioning enable
+
 
 # PIPELINE
 go the Amazon Services search -> codePipeline
