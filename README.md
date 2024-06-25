@@ -24,3 +24,8 @@ Deploy provider -->Amazon S3
 add region () -->add bucket which was created --> leave the S3 object key  ---> create pipeline
 
 ![image](https://github.com/Vinay-Khanagavi/AWS-Code-pipeline/assets/116386393/1246241f-6f9e-4123-a248-b3c0c270f9ac)
+
+# Bucket Hosting 
+
+![image](https://github.com/Vinay-Khanagavi/AWS-Code-pipeline/assets/116386393/c0609279-ba9a-4b25-b226-6c94069f1444)
+
